@@ -1,6 +1,6 @@
-# apistatus-api
+# apistatus-api ![API Status](https://img.shields.io/badge/API-online-brightgreen.svg)
 
-An API for [apistatus](https://github.com/Mashape/apistatus)
+An API for [apistatus](https://github.com/Mashape/apistatus) that takes a URL to check and returns the status.
 
 ### Usage
 
@@ -9,7 +9,7 @@ An API for [apistatus](https://github.com/Mashape/apistatus)
 ```
 git clone https://github.com/Mashape/apistatus-api
 cd apistatus-api
-npm i
+npm install
 node server.js
 ```
 
