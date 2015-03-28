@@ -1,6 +1,6 @@
-# apistatus-api ![API Status](https://img.shields.io/badge/API-online-brightgreen.svg)
+# API Status API ![API Status](https://img.shields.io/badge/API-online-brightgreen.svg)
 
-An API for [apistatus](https://github.com/Mashape/apistatus) that takes a URL to check and returns the status.
+An API for [apistatus](https://github.com/Mashape/apistatus) that takes a URL to check and returns the status. 
 
 ### Usage
 
@@ -18,8 +18,6 @@ node server.js
 ```
 curl 127.0.0.1:8080/?url=https://mockbin.com/status/200
 ```
-
-### License
 
 ### MIT license
 
