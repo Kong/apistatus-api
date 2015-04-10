@@ -1,6 +1,6 @@
-# API Status API ![API Status](https://img.shields.io/badge/API-online-brightgreen.svg)
+# API Status API ![API Status](http://img.apistatus.org/online/aHR0cDovL2FwaS5hcGlzdGF0dXMub3JnL21hcmNv.svg)
 
-An API for [apistatus](https://github.com/Mashape/apistatus) that takes a URL to check and returns the status. 
+An API wrapper around [apistatus](https://github.com/Mashape/apistatus), basically just making GET requests and returning the response information as JSON. Powering [apistatus.org]!
 
 ### Usage
 
