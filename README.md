@@ -1,6 +1,6 @@
 # API Status API ![API Status](http://img.apistatus.org/online/aHR0cDovL2FwaS5hcGlzdGF0dXMub3JnL21hcmNv.svg)
 
-An API wrapper around [apistatus](https://github.com/Mashape/apistatus), basically just making GET requests and returning the response information as JSON. Powering [apistatus.org]!
+An API wrapper around [apistatus](https://github.com/Mashape/apistatus). Makes a GET requests to the target API endpoint and returns response information as JSON. Powering [apistatus.org](http://apistatus.org)!
 
 ### Usage
 
